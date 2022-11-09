@@ -1,3 +1,3 @@
-# Cloud-study
+# CLF-C01
 
-AWS Certified Cloud 시험 대비용 정리
+CLF-C01 시험 대비용 정리
